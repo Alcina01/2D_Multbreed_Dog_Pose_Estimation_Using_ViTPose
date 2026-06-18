@@ -9,10 +9,6 @@ This project develops a machine learning pipeline for accurate 2D skeletal pose 
     <h3>Target</h3>
     <img src="images/target.png" width="400">
   </div>
-  <div>
-    <h3>Predicted</h3>
-    <img src="images/Heatmap.png" width="400">
-  </div>
 </div>
 
 ## Motivation
