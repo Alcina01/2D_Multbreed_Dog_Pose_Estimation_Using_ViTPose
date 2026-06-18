@@ -166,7 +166,7 @@ vit3/
 - **ViTPose**: Xu et al., "ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation" (CVPR 2023)
 - **ViTPose++**: Xu et al., "ViTPose++: Vision Transformer for Generic Body Pose Estimation" (CVPR 2024)
 - **AP10K**: Yu et al., "Towards General Animal Pose and Shape Estimation via Weakly-Supervised Learning" (CVPR 2021)
-- **SMPL**: Loper et al., "SMPL: A Skinned Multi-Person Linear Model" (TOG 2015)
+
 
 ## Contact & Citation
 **Author**: Alcina (DFKI, Kaiserslautern)  
