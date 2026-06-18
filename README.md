@@ -4,7 +4,7 @@
 This project develops a machine learning pipeline for accurate 2D skeletal pose estimation across multiple dog breeds using synthetic training data and Vision Transformer-based architectures.
 
 ## Visualisation
-<div style="display: flex; gap: 5px; flex-wrap: nowrap; overflow-x: auto;">
+<div style="display: flex; gap: 5px; width: 450px;">
   <div>
     <h3>Target</h3>
     <img src="images/target.png" width="200">
