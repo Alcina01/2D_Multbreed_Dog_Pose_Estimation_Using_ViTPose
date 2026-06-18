@@ -3,19 +3,6 @@
 ## Overview
 This project develops a machine learning pipeline for accurate 2D skeletal pose estimation across multiple dog breeds using synthetic training data and Vision Transformer-based architectures.
 
-# Multi-Breed Dog 2D Pose Estimation with ViTPose++
-
-## Overview
-This project develops a machine learning pipeline for 2D dog pose estimation.
-
-## Results
-
-### Keypoint Predictions
-<img src="images/Heatmap.png" width="500" alt="Heatmap predictions">
-
-### Target Heatmaps
-<img src="images/target.png" width="500" alt="Target heatmaps">
-
 ## Side-by-side comparison
 <div style="display: flex; gap: 20px;">
   <div>
@@ -27,6 +14,7 @@ This project develops a machine learning pipeline for 2D dog pose estimation.
     <img src="images/Heatmap.png" width="400">
   </div>
 </div>
+
 ## Motivation
 Automated dog pose estimation has applications in:
 - **Veterinary biomechanics**: Gait analysis, injury detection
