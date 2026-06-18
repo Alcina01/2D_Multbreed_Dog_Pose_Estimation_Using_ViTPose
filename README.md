@@ -4,16 +4,15 @@
 This project develops a machine learning pipeline for accurate 2D skeletal pose estimation across multiple dog breeds using synthetic training data and Vision Transformer-based architectures.
 
 ## Visualisation
-<div style="display: flex; gap: 5px; flex-wrap: nowrap; min-width: 0;">
-  <div style="flex: 1; min-width: 0;">
-    <h3 style="margin: 0 0 5px 0;">Target</h3>
-    <img src="images/target.png" style="width: 100%; height: auto; display: block;">
+<div style="display: flex; gap: 5px; flex-wrap: nowrap;">
+  <div style="flex-shrink: 0;">
+    <h3 style="margin: 0 0 5px 0; font-size: 14px;">Target</h3>
+    <img src="images/target.png" style="width: 150px; height: auto; display: block;">
   </div>
-  <div style="flex: 1; min-width: 0;">
-    <img src="images/heatmaps_pug_sitting.png" style="width: 100%; height: auto; display: block;">
+  <div style="flex-shrink: 0;">
+    <img src="images/heatmaps_pug_sitting.png" style="width: 150px; height: auto; display: block;">
   </div>
 </div>
-
 ## Motivation
 Automated dog pose estimation has applications in:
 - **Veterinary biomechanics**: Gait analysis, injury detection
